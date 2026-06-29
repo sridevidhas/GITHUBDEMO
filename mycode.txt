@@ -1,9 +1,7 @@
 print("1 code")
 print("edited")
 print("pull the secondline to change")
-<<<<<<< HEAD
-print("pull the secondline to change")
 print("local pull")
-=======
+print("fifth line")
 
->>>>>>> 59d89c777d5dbb456a866e06d11b476cff6cab37
+
