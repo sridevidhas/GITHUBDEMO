@@ -1,3 +1,5 @@
 print("1 code")
 print("edited")
 print("pull the secondline to change")
+print("pull the secondline to change")
+print("local pull")
